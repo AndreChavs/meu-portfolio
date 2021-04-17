@@ -1,15 +1,9 @@
 /*CSS NavBar*/
-header #nav-container{    
-    border: none;
-    background-color: transparent;
-    transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
-}
+
 
 
 /*CSS Carousel*/
-.principal{
-    /*margin-top: 58px;*/
-}
+
 .principal .carousel-item{
     min-height: 100vh ;
     background-position: center;
